@@ -21,10 +21,6 @@ Open `Package.swift` in Xcode 16+ and run the `RxReadyDemo` scheme on an iOS 17+
 
 The included mock is injected at the app boundary. A real app would replace it with an authenticated, HIPAA-reviewed backend client; protected health information must never be sent directly to a third-party analytics platform.
 
-## Resume wording
-
-**Rx Ready — iOS portfolio project:** Built a SwiftUI medication-refill dashboard using async/await, protocol-based API clients, accessibility support, privacy-safe telemetry, unit tests, and GitHub Actions CI.
-
 ## Important
 
 This is a demonstration app. It contains fictional prescriptions only and is not medical software.
